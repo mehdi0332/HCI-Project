@@ -43,22 +43,10 @@ Through this application user will to do advance booking of any date
 ### Task 10 Near-by Station ###
 Through this application user will find near-by bus station and bus through GPS / onn his location.
 
+## Prospect Technology Use ##
+We make prototype of this application in A4 paper and mobile, tablet size paper to make HCI more invisible and give a idea of real use of application in diffrent devices then we use tools to make a interactive GUI of our project and make a GUI according to keep in mind that this application will use by all ages of person.
 
-
-
-
-
-
-
-
-##Prospect Technology Use ##
-Replace this text with the desription of what technologies you think can be incooperated in the domain you have selected and tasks that you have listed to make the HCI more invisible.
-
-##References##
-- Mention and add [links](https://guides.github.com/features/mastering-markdown/), references, books, research papers, code samples, you used to get help in the project.
-- Use bullets like this.
-- Mention all references. Plagiarism will not be tolerated.
-- You see markdown is not that difficult.
-- You are CS students not some tom harry from BBA SHE-B-A :-).
-- You can and must learn to use markdown and Github. 
-- All future project development will be done in something similar to GITHUB
+## References ##
+- https://github.com/mehdi0332/HCI-Project
+- https://www.pinterest.com/MarkHunag1018/app-for-transportation/
+- https://www.pinterest.com/silvialiao/public-transport-ui/
