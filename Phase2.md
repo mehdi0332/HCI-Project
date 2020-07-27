@@ -50,10 +50,15 @@ Enjoying using this app as its helpfull to find buses quickly.
 
 #### Question / Answer: ####
 Q1: What is your educational background?
+
 Ans: I'm studying in 11th grade at DJ Science College.
+
 Q2: Any experience of using smart phones?
+
 Ans: Yes i use like many others youngsters.
+
 Q3: How do you think about our app after using it?
+
 Ans: That's a good app it helps me alot to find bus.
 
 
