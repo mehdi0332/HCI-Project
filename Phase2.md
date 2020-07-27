@@ -26,7 +26,36 @@ https://developers.google.com/maps/solutions/transport-tracker
 
 The major target audience is passengers usually students and employees who want to reach their College/University/Office on time. Some of the passengers include daily wages persons who have not enough money at a time to travel through auto or taxi etc but want to reach the destination easily/comfortably and as soon as possible on time without wasting much time on traffic and waiting for the bus on stop.
 
-##Design Alternatives##
+## Design Alternatives ##
+### Persona 1 ###
+#### Name ####
+Salman Ahmed
+#### Age ####
+15 Years
+#### Education ####
+Student of College
+#### Hobies ####
+1) Sports Man
+2) Socializing
+#### Family Background ####
+Middle class Family
+#### Bio ####
+Salman is a 15 years old boy who studies in the 11th grade, he belongs to a middle class family and he has to travel on public transport to go to college, which is why he often goes to school late. Salman is a typical hardworking boy like other children but he has difficulty in going to school due to the outdated public transport system but an app would be quite helpful for Salman. Which can Provide accurate information of routes and bus stops
+#### Goal ####
+Salman is a young boy, which is why he does everything fast. He does not like to stand at the bus stop and wait for the bus. His basic goal is that he wants an app that he could use to catch the bus at the time.
+#### Improvement ####
+Internet connectivty should be provided on public places because not every one has always mobile data.
+#### Feedback ####
+Enjoying using this app as its helpfull to find buses quickly.
+
+#### Question / Answer: ####
+Q1: What is your educational background?
+Ans: I'm studying in 11th grade at DJ Science College.
+Q2: Any experience of using smart phones?
+Ans: Yes i use like many others youngsters.
+Q3: How do you think about our app after using it?
+Ans: That's a good app it helps me alot to find bus.
+
 
 
  
