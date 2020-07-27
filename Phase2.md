@@ -25,4 +25,8 @@ https://developers.google.com/maps/solutions/transport-tracker
 ### Audience ###
 
 The major target audience is passengers usually students and employees who want to reach their College/University/Office on time. Some of the passengers include daily wages persons who have not enough money at a time to travel through auto or taxi etc but want to reach the destination easily/comfortably and as soon as possible on time without wasting much time on traffic and waiting for the bus on stop.
+
+##Design Alternatives##
+
+
  
