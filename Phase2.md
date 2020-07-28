@@ -101,6 +101,44 @@ Q: How do you think about our app after using it?
 Ans: pretty decent app it is very easy tou use.
 
 
+## Persona 3 ###
+#### Name ####
+Zafar Iqbal
+#### Age ####
+30+
+#### Education ####
+Masters in Marketing
+#### Occupation ####
+Self-Employee
+#### Hobies ####
+1)	Extovert
+2)	Love to travel
+3)	Social
+#### Family Background ####
+Belongs to well settle family
+#### Bio ####
+Zafar belongs from a upper middle class family. He has a Masters degree in Marketing from the University of Karachi. Zafar loves traveling he alwasy ready to learn new things and new technology from new environment.
+ Zafar is very fond of knowing the history of other cities and countries that’s why he loves traveling but finding a bus is often difficult in a new city so he is looking for an app that makes it easy to travel by bus to any other city.
+#### Goal ####
+He wants an app which he can use in any other city to find thier bus.
+#### Improvement ####
+This service should also be provided in rural areas as well.
+#### Feedback ####
+Enjoying using this app as its helpfull to find buses quickly.
+
+#### Question / Answer: ####
+Q: What is your educational background?
+
+Ans: Masters in Marketing from Karachi University
+
+Q: Any experience of using smart phones?
+
+Ans: Since he is traveler he have to use smart phone for tracking his location.
+
+Q: How do you think about our app after using it?
+
+Ans: The app is graet any traver would love to use app like this.
+
 
 
  
