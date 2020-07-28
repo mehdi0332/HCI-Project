@@ -27,6 +27,7 @@ https://developers.google.com/maps/solutions/transport-tracker
 The major target audience is passengers usually students and employees who want to reach their College/University/Office on time. Some of the passengers include daily wages persons who have not enough money at a time to travel through auto or taxi etc but want to reach the destination easily/comfortably and as soon as possible on time without wasting much time on traffic and waiting for the bus on stop.
 
 ## Design Alternatives ##
+### Personas ###
 ### Persona 1 ###
 #### Name ####
 Salman Ahmed
@@ -138,6 +139,24 @@ Ans: Since he is traveler he have to use smart phone for tracking his location.
 Q: How do you think about our app after using it?
 
 Ans: The app is graet any traver would love to use app like this.
+
+### Story Board ###
+![storyBoard-1](https://user-images.githubusercontent.com/38127651/88629225-684af180-d0c8-11ea-84f1-710a4a94def3.JPG)
+
+![storyBoard-2](https://user-images.githubusercontent.com/38127651/88629443-b52ec800-d0c8-11ea-9458-f3617fc1e658.JPG)
+
+![storyBoard-3](https://user-images.githubusercontent.com/38127651/88629483-c081f380-d0c8-11ea-8abb-014a9edbead3.JPG)
+
+
+## Prototyping ##
+
+![prototype-1](https://user-images.githubusercontent.com/38127651/88630291-cb895380-d0c9-11ea-8436-8263cddf8a86.JPG)
+
+![prototype-2](https://user-images.githubusercontent.com/38127651/88630304-d217cb00-d0c9-11ea-900b-353c63f40d79.JPG)
+
+![prototype-3](https://user-images.githubusercontent.com/38127651/88630317-d6dc7f00-d0c9-11ea-9e3a-b8579b9d248a.JPG)
+
+![prototype-4](https://user-images.githubusercontent.com/38127651/88630353-e78cf500-d0c9-11ea-9689-4849b6a0c394.JPG)
 
 
 
