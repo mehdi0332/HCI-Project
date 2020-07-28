@@ -158,6 +158,9 @@ Ans: The app is graet any traver would love to use app like this.
 
 ![prototype-4](https://user-images.githubusercontent.com/38127651/88630353-e78cf500-d0c9-11ea-9689-4849b6a0c394.JPG)
 
+## Evaluation ##
+When we took an evaluation of our prototype with our circle they give the initial feedback on the application was mostly positive. However, there were few recommendations like to have a UI a bit simpler to use and other transport services like rickshaw and taxi should be added as well. 
+
 
 
  
