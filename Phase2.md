@@ -62,5 +62,45 @@ Q3: How do you think about our app after using it?
 Ans: That's a good app it helps me alot to find bus.
 
 
+### Persona 2 ###
+#### Name ####
+Aliza Sheikh
+#### Age ####
+Between 16-30
+#### Education ####
+Under Graduate
+#### Occupation ####
+Self-Employee
+#### Hobies ####
+1) Introvert
+2)	love to learn new knowledge
+3)	family centerd.
+#### Family Background ####
+Belongs to a lower middle class family. 
+Teacher.
+#### Bio ####
+Aliza is a 24 years old girl majoring in computer science from a local university. She is a teacher and loves to learn new thing every day either related to physics or her subjects or any new app. Aliza teaches children at school in the morning so she has to go to school early and sometimes She goes to school late if she can't find bus and taxi on time and her salary is deducted when ever she arrives late. This app of a bus service will greatly help her to find the bus on time.
+#### Goal ####
+She want an app which has fast response time and user friendly Interface.
+#### Improvement ####
+This app should also be integrated with othe tranport services like rishaw and taxis.
+#### Feedback ####
+Enjoying using this app as its helpfull to find buses quicly.
+
+#### Question / Answer: ####
+Q: What is your educational background?
+
+Ans: Doing Bachelors in Computer Science.
+
+Q: Any experience of using smart phones?
+
+Ans: Since she is CS students she knows alot about smart phones and also use this fancy stuff.
+
+Q: How do you think about our app after using it?
+
+Ans: pretty decent app it is very easy tou use.
+
+
+
 
  
