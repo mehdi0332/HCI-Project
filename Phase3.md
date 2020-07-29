@@ -100,3 +100,5 @@ Final Design Selected!
 
 
 ### Evaluation ###
+
+The project was tested throughout the developmental phase to see if it is really the thing the user requires. The project was compared with the prototype design we did earlier as the prototype designs were the base for the whole project like what our project should look like and also making sure that the UI seems easy enough for the users to use.
