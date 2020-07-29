@@ -6,13 +6,14 @@ StdID | Name
 62589 | Mehdi Raza
 62500 | Osama Awan
 
-### Evaluation -> Need Finding ###
+## Evaluation -> Need Finding ##
 Final Design Selected!
 
-### Design Alternatives ###
+## Design Alternatives ##
 
-### Prototyping ###
-#### High Fedility ####
+## Prototyping ##
+### High Fedility ###
+
 ![HighFadilityPrototype-1](https://user-images.githubusercontent.com/38127651/88822576-79d1ed80-d1dd-11ea-81d7-4fd24cbef273.JPG)
 
 ![HighFadilityPrototype-2](https://user-images.githubusercontent.com/38127651/88822586-7c344780-d1dd-11ea-823c-fdf4cfb9035b.JPG)
@@ -37,7 +38,63 @@ Final Design Selected!
 
 ![HighFadilityPrototype-12](https://user-images.githubusercontent.com/38127651/88822708-a1c15100-d1dd-11ea-9f0e-bdf2c62e71c0.JPG)
 
-### Fianl UI Design ###
+## Wire Frames ##
+
+![wireframe-1](https://user-images.githubusercontent.com/38127651/88859040-6c832600-d212-11ea-8a68-1882fd2336cb.jpg)
+
+![wireframe-2](https://user-images.githubusercontent.com/38127651/88859042-6c832600-d212-11ea-8450-1193b3b234f6.jpg)
+
+![wireframe-3](https://user-images.githubusercontent.com/38127651/88859045-6d1bbc80-d212-11ea-9eca-aa468fbb6b96.jpg)
+
+![wireframe-4](https://user-images.githubusercontent.com/38127651/88859046-6d1bbc80-d212-11ea-9d62-a3d6c76359be.jpg)
+
+![wireframe-5](https://user-images.githubusercontent.com/38127651/88859047-6db45300-d212-11ea-843f-565a012f42a7.jpg)
+
+![wireframe-6](https://user-images.githubusercontent.com/38127651/88859048-6e4ce980-d212-11ea-9476-95c733d7f4c6.jpg)
+
+![wireframe-7](https://user-images.githubusercontent.com/38127651/88859051-6e4ce980-d212-11ea-80f7-5aea3dd371f4.jpg)
+
+![wireframe-8](https://user-images.githubusercontent.com/38127651/88859054-6ee58000-d212-11ea-86c7-47942051ae2d.jpg)
+
+![wireframe-9](https://user-images.githubusercontent.com/38127651/88859004-642aeb00-d212-11ea-9d6d-fa4ca63c9d1c.jpg)
+
+![wireframe-10](https://user-images.githubusercontent.com/38127651/88859007-65f4ae80-d212-11ea-818a-c3a5dd565ee0.jpg)
+
+![wireframe-11](https://user-images.githubusercontent.com/38127651/88859010-65f4ae80-d212-11ea-994c-8cf6f6c3e37f.jpg)
+
+![wireframe-12](https://user-images.githubusercontent.com/38127651/88859012-668d4500-d212-11ea-9576-69c7c86eb059.jpg)
+
+![wireframe-13](https://user-images.githubusercontent.com/38127651/88859013-668d4500-d212-11ea-85d4-412381aaf729.jpg)
+
+![wireframe-14](https://user-images.githubusercontent.com/38127651/88859014-6725db80-d212-11ea-8f39-ceff8cba42f1.jpg)
+
+![wireframe-15](https://user-images.githubusercontent.com/38127651/88859015-67be7200-d212-11ea-8854-6794c250e4a4.jpg)
+
+![wireframe-16](https://user-images.githubusercontent.com/38127651/88859016-67be7200-d212-11ea-8ccd-cc841aa21445.jpg)
+
+![wireframe-17](https://user-images.githubusercontent.com/38127651/88859017-68570880-d212-11ea-937d-56d035b172fa.jpg)
+
+![wireframe-18](https://user-images.githubusercontent.com/38127651/88859021-68570880-d212-11ea-93d7-31d95d6880ec.jpg)
+
+![wireframe-19](https://user-images.githubusercontent.com/38127651/88859023-68ef9f00-d212-11ea-8157-dcd76602a53e.jpg)
+
+![wireframe-20](https://user-images.githubusercontent.com/38127651/88859024-69883580-d212-11ea-9771-ab10096ac967.jpg)
+
+![wireframe-21](https://user-images.githubusercontent.com/38127651/88859026-69883580-d212-11ea-9db0-d43668967f11.jpg)
+
+![wireframe-22](https://user-images.githubusercontent.com/38127651/88859030-6a20cc00-d212-11ea-9df1-bf7e8fd4d361.jpg)
+
+![wireframe-23](https://user-images.githubusercontent.com/38127651/88859031-6ab96280-d212-11ea-8297-7e2c6486e26a.jpg)
+
+![wireframe-24](https://user-images.githubusercontent.com/38127651/88859033-6b51f900-d212-11ea-9228-7587b490d99a.jpg)
+
+![wireframe-25](https://user-images.githubusercontent.com/38127651/88859035-6b51f900-d212-11ea-9eb8-03a4aac0266e.jpg)
+
+![wireframe-26](https://user-images.githubusercontent.com/38127651/88859038-6bea8f80-d212-11ea-934e-f6bb12134b6b.jpg)
+
+
+
+## Fianl UI Design ##
 
 
 ![image](https://user-images.githubusercontent.com/20359777/88826291-0088c980-d1e2-11ea-9213-d160636cc728.png)
@@ -98,6 +155,6 @@ Final Design Selected!
 
 
 
-### Evaluation ###
+## Evaluation ##
 
 The project was tested throughout the developmental phase to see if it is really the thing the user requires. The project was compared with the prototype design we did earlier as the prototype designs were the base for the whole project like what our project should look like and also making sure that the UI seems easy enough for the users to use.
