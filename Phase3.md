@@ -39,7 +39,6 @@ Final Design Selected!
 
 ### Fianl UI Design ###
 
-![image](https://user-images.githubusercontent.com/20359777/88826279-fb2b7f00-d1e1-11ea-9cd0-d318ea3781e2.png)
 
 ![image](https://user-images.githubusercontent.com/20359777/88826291-0088c980-d1e2-11ea-9213-d160636cc728.png)
 
